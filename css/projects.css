@@ -67,6 +67,9 @@ a.home {
     top:10px;
     left:10px;
 }
+a.home:hover{
+    color:white;
+}
 
 
 .proj-display div.sec-back{
@@ -164,7 +167,7 @@ main.proj-display div.sec-back section details summary{
         opacity:0;
     }
     to{
-        background:linear-gradient(rgba(255,255,255,0.7),rgba(255,255,255,0.7));
+        background:linear-gradient(rgba(128, 241, 130, 0.7),rgba(42, 115, 224, 0.7));
         opacity:1;
     }
 }
